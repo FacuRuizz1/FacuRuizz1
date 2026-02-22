@@ -4,12 +4,6 @@
 Fullstack Developer from Córdoba, Argentina 🇦🇷
 </p>
 
-<p align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facuruiz204@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-nicolás-ruiz-7262601a8)
-
-</p>
 
 ## 👨‍💻 About me
 
@@ -101,3 +95,28 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FacuRuizz1&theme=react-dark&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true"/>
 
 </div>
+
+--
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacuRuizz1&theme=github-dark&hide_border=true&color=38bdf8&line=38bdf8&point=38bdf8"/>
+
+</div>
+
+--
+## 🤝🏻 Contact Me
+
+<p align="center">
+
+<a href="mailto:facuruiz204@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/facundo-nicolás-ruiz-7262601a8">
+  <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
