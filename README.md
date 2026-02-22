@@ -5,11 +5,15 @@ Fullstack Developer from Córdoba, Argentina 🇦🇷
 </p>
 
 
-## 👨‍💻 About me I’m a Junior Full Stack Developer, recently graduated with a University Technical Degree in Programming (UTN). I build complete web applications, developing the Frontend with Angular, TypeScript and JavaScript, and the Backend with Java (Spring Boot) and C# .NET. I create RESTful APIs and integrate them with relational databases. 
+## 👨‍💻 About Me
 
-💼 Actively seeking my first IT opportunity (Full-Time) 
-🧩 Consistent, responsible and detail-oriented 
-🧠 Passionate about clean code, best practices and Agile/Scrum methodologies
+I’m a Junior Full Stack Developer, recently graduated with a University Technical Degree in Programming (UTN).
+
+I build complete web applications, developing the Frontend with Angular, TypeScript and JavaScript, and the Backend with Java (Spring Boot) and C# .NET. I create RESTful APIs and integrate them with relational databases.
+
+💼 Actively seeking my first IT opportunity (Full-Time)  
+🧩 Consistent, responsible and detail-oriented  
+🧠 Passionate about clean code, best practices and Agile/Scrum methodologies  
 
 ---
 
