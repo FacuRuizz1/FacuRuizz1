@@ -98,15 +98,6 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 --
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FacuRuizz1&theme=github-dark&hide_border=true&color=38bdf8&line=38bdf8&point=38bdf8"/>
-
-</div>
-
---
 ## 🤝🏻 Contact Me
 
 <p align="center">
