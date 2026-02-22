@@ -66,4 +66,10 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FacuRuizz1&show_icons=true&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FacuRuizz1&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=FacuRuizz1&theme=tokyonight" height="150"/>
+
+</div>
