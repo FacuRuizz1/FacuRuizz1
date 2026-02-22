@@ -4,7 +4,12 @@
 Fullstack Developer from Córdoba, Argentina 🇦🇷
 </p>
 
+<p align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facuruiz204@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-nicolás-ruiz-7262601a8)
+
+</p>
 ---
 ## 👨‍💻 About me
 
