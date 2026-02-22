@@ -3,7 +3,7 @@
 <p align="center">
 Fullstack Developer from Córdoba, Argentina 🇦🇷
 </p>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facuruiz204@gmail.com)
 ---
 ## 👨‍💻 About me
 
