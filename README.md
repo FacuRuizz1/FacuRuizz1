@@ -22,7 +22,7 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 </div>
 
 <div>
-  <img src="[LINK_DIRECTO_AL_GIF.gif](https://i.pinimg.com/originals/2b/cf/4a/2bcf4a36a26bf2f5de878f2c7e985464.gif)" width="150"/>
+  <img src="https://i.pinimg.com/originals/2b/cf/4a/2bcf4a36a26bf2f5de878f2c7e985464.gif" width="150"/>
 </div>
 
 </div>
