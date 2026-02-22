@@ -68,14 +68,20 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 
 <div align="center">
 
+### 🧩 TPI - Users
+🛠 Backend API - Gestión de usuarios y direcciones  
+
 <a href="https://github.com/LCIV-2024/2W1-TPI-users-and-addresses">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LCIV-2024&repo=2W1-TPI-users-and-addresses&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
+### 🍽 Tesis - Templa Restaurante
+🛠 Fullstack Application  
+
 <a href="https://github.com/FacuRuizz1/PS2025_TemplaRestaurante">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FacuRuizz1&repo=PS2025_TemplaRestaurante&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117&hide_border=true" />
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
