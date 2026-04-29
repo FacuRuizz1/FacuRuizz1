@@ -84,11 +84,12 @@ I build complete web applications, developing the Frontend with Angular, TypeScr
 ### 🐾 PatitasYa
 🛠 Fullstack Web Application   
 
-<a href="https://github.com/TU-REPO-PATITASYA">
+<a href="https://github.com/FacuRuizz1/PatitasYa.git">
   <img src="https://img.shields.io/badge/Ver%20Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
+
 ---
 ## 📊 GitHub Stats
 
