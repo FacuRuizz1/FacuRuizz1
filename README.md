@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Facundo Ruiz</h1>
+<h1 align="center">¡Hola! 👋 Soy Facundo Ruiz</h1>
 
 <p align="center">
-Fullstack Developer from Córdoba, Argentina 🇦🇷
+Desarrollador Full Stack de Córdoba, Argentina 🇦🇷
 </p>
 
+## 👨‍💻 Sobre mí
 
-## 👨‍💻 About Me
+Soy un Desarrollador Full Stack Junior, recientemente graduado como Técnico Universitario en Programación (UTN).
 
-I’m a Junior Full Stack Developer, recently graduated with a University Technical Degree in Programming (UTN).
+Desarrollo aplicaciones web completas, participando tanto en el Frontend como en el Backend. Disfruto crear soluciones escalables y mantenibles, con código limpio, una arquitectura bien organizada y un fuerte enfoque en la calidad del software.
 
-I build complete web applications, developing the Frontend with Angular, TypeScript and JavaScript, and the Backend with Java (Spring Boot) and C# .NET. I create RESTful APIs and integrate them with relational databases.
-
-💼 Actively seeking my first IT opportunity (Full-Time)  
-🧩 Consistent, responsible and detail-oriented  
-🧠 Passionate about clean code, best practices and Agile/Scrum methodologies  
+💼 Buscando activamente mi primera oportunidad en IT (Tiempo Completo)  
+🧩 Constante, responsable y orientado a los detalles  
+🧠 Apasionado por el código limpio, las buenas prácticas y las metodologías Agile/Scrum
 
 ---
 
