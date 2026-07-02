@@ -16,9 +16,9 @@ Desarrollo aplicaciones web completas, participando tanto en el Frontend como en
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tecnologías y Herramientas
 
-### Programming Languages
+###  Lenguajes de Programación
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,14 +35,14 @@ Desarrollo aplicaciones web completas, participando tanto en el Frontend como en
 
 ---
 
-### Backend & Frameworks
+### Backend y Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
-### Databases
+###  Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,7 +50,7 @@ Desarrollo aplicaciones web completas, participando tanto en el Frontend como en
 
 ---
 
-### Tools & DevOps
+### Herramientas y DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -92,7 +92,7 @@ Desarrollo aplicaciones web completas, participando tanto en el Frontend como en
 </div>
 
 ---
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Desarrollo aplicaciones web completas, participando tanto en el Frontend como en
 
 ---
 
-## 🤝🏻 Contact Me
+## 📫 Contacto
 
 <p align="center">
 
