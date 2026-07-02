@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Facundo Ruiz</h1>
+<h1 align="center">¡Hola! 👋 Soy Facundo Nicolás Ruiz</h1>
 
 <p align="center">
 Desarrollador Full Stack de Córdoba, Argentina 🇦🇷
