@@ -91,12 +91,6 @@ Desarrollo aplicaciones web completas, participando tanto en el Frontend como en
 
 <br><br>
 
-### Entrega Digital - Oulton
-<a href="https://github.com/FacuRuizz1/Consulta-Pacientes-Oulton.git">
-  <img src="https://img.shields.io/badge/Ver%20Repositorio-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 ## 📊 Estadísticas de GitHub
